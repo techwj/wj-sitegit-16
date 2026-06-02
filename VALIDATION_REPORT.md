@@ -1,0 +1,88 @@
+# Validation Report - what-to-eat-by-solar-terms
+
+Generated: 2026-06-02T15:38:17.414479
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner What to Eat by Solar Terms
+- ✓ Article word count OK: Beginner What to Eat by Solar Terms: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner What to Eat by Solar Terms
+- ✓ Article word count OK: Beginner What to Eat by Solar Terms Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner What to Eat by Solar Terms
+- ✓ Article word count OK: Beginner What to Eat by Solar Terms in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner What to Eat by Solar Terms
+- ✓ Article word count OK: Common Mistakes in Beginner What to Eat by Solar Terms
+- ✓ Article word count OK: Beginner What to Eat by Solar Terms for Beginners
+- ✓ Article word count OK: Advanced Beginner What to Eat by Solar Terms Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced What to Eat by Solar Terms
+- ✓ Article word count OK: Advanced What to Eat by Solar Terms: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced What to Eat by Solar Terms
+- ✓ Article word count OK: Advanced What to Eat by Solar Terms Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced What to Eat by Solar Terms
+- ✓ Article word count OK: Advanced What to Eat by Solar Terms in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced What to Eat by Solar Terms
+- ✓ Article word count OK: Common Mistakes in Advanced What to Eat by Solar Terms
+- ✓ Article word count OK: Advanced What to Eat by Solar Terms for Beginners
+- ✓ Article word count OK: Advanced Advanced What to Eat by Solar Terms Techniques
+- ✓ Article word count OK: The Ultimate Guide to What to Eat by Solar Terms Tips
+- ✓ Article word count OK: What to Eat by Solar Terms Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding What to Eat by Solar Terms Tips
+- ✓ Article word count OK: What to Eat by Solar Terms Tips Tips and Best Practices
+- ✓ Article word count OK: The History of What to Eat by Solar Terms Tips
+- ✓ Article word count OK: What to Eat by Solar Terms Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of What to Eat by Solar Terms Tips
+- ✓ Article word count OK: Common Mistakes in What to Eat by Solar Terms Tips
+- ✓ Article word count OK: What to Eat by Solar Terms Tips for Beginners
+- ✓ Article word count OK: Advanced What to Eat by Solar Terms Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to What to Eat by Solar Terms History
+- ✓ Article word count OK: What to Eat by Solar Terms History: Everything You Need to Know
+- ✓ Article word count OK: Understanding What to Eat by Solar Terms History
+- ✓ Article word count OK: What to Eat by Solar Terms History Tips and Best Practices
+- ✓ Article word count OK: The History of What to Eat by Solar Terms History
+- ✓ Article word count OK: What to Eat by Solar Terms History in 2026: Current Trends
+- ✓ Article word count OK: Future of What to Eat by Solar Terms History
+- ✓ Article word count OK: Common Mistakes in What to Eat by Solar Terms History
+- ✓ Article word count OK: What to Eat by Solar Terms History for Beginners
+- ✓ Article word count OK: Advanced What to Eat by Solar Terms History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending What to Eat by Solar Terms
+- ✓ Article word count OK: Trending What to Eat by Solar Terms: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending What to Eat by Solar Terms
+- ✓ Article word count OK: Trending What to Eat by Solar Terms Tips and Best Practices
+- ✓ Article word count OK: The History of Trending What to Eat by Solar Terms
+- ✓ Article word count OK: Trending What to Eat by Solar Terms in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending What to Eat by Solar Terms
+- ✓ Article word count OK: Common Mistakes in Trending What to Eat by Solar Terms
+- ✓ Article word count OK: Trending What to Eat by Solar Terms for Beginners
+- ✓ Article word count OK: Advanced Trending What to Eat by Solar Terms Techniques
+- ✓ Article word count OK: The Ultimate Guide to What to Eat by Solar Terms Tutorials
+- ✓ Article word count OK: What to Eat by Solar Terms Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding What to Eat by Solar Terms Tutorials
+- ✓ Article word count OK: What to Eat by Solar Terms Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of What to Eat by Solar Terms Tutorials
+- ✓ Article word count OK: What to Eat by Solar Terms Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of What to Eat by Solar Terms Tutorials
+- ✓ Article word count OK: Common Mistakes in What to Eat by Solar Terms Tutorials
+- ✓ Article word count OK: What to Eat by Solar Terms Tutorials for Beginners
+- ✓ Article word count OK: Advanced What to Eat by Solar Terms Tutorials Techniques
+- ✓ Ad configuration validated

@@ -1,0 +1,59 @@
+{
+  "siteId": "what-to-eat-by-solar-terms",
+  "generatedAt": "2026-06-02T15:38:17.414674",
+  "categories": [
+    "beginner-what-to-eat-by-solar-terms",
+    "advanced-what-to-eat-by-solar-terms",
+    "tips-what-to-eat-by-solar-terms",
+    "history-what-to-eat-by-solar-terms",
+    "trending-what-to-eat-by-solar-terms",
+    "tutorials-what-to-eat-by-solar-terms"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-what-to-eat-by-solar-terms",
+      "category_name": "Beginner What to Eat by Solar Terms"
+    },
+    {
+      "category_slug": "advanced-what-to-eat-by-solar-terms",
+      "category_name": "Advanced What to Eat by Solar Terms"
+    },
+    {
+      "category_slug": "tips-what-to-eat-by-solar-terms",
+      "category_name": "What to Eat by Solar Terms Tips"
+    },
+    {
+      "category_slug": "history-what-to-eat-by-solar-terms",
+      "category_name": "What to Eat by Solar Terms History"
+    },
+    {
+      "category_slug": "trending-what-to-eat-by-solar-terms",
+      "category_name": "Trending What to Eat by Solar Terms"
+    },
+    {
+      "category_slug": "tutorials-what-to-eat-by-solar-terms",
+      "category_name": "What to Eat by Solar Terms Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "what-to-eat-by-solar-terms",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "What to Eat by Solar Terms Central",
+    "articles_per_row": 3
+  }
+}
